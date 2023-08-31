@@ -1,2 +1,11 @@
 - Khởi tạo dự án: git init
 git remote add origin https://.....
+git config --global user.name "my-name"
+git config --global user.email "my-email"
++Đẩy từ local lên remote
+git add -A
+git commit -m "message"
+++đẩy lần đầu
+git push -u origin master
+++ đẩy lần thứ 2 trở đi
+git push
