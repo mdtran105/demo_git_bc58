@@ -9,3 +9,9 @@ git commit -m "message"
 git push -u origin master
 ++ đẩy lần thứ 2 trở đi
 git push
+
+++ Xem các nhánh hiện có
+git brach
+
+++ Đem code từ master sang brach
+git merge newBrach
