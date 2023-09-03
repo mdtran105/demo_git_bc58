@@ -1,5 +1,5 @@
 - Khởi tạo dự án: git init
-git remote add origin https://.....
+git remote add origin https://..... (.)
 git config --global user.name "my-name"
 git config --global user.email "my-email"
 
