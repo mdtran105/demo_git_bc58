@@ -24,3 +24,13 @@ git brach
 
 ++ Đem code từ master sang brach
 git merge newBrach
+
+********* - ************
+git branch -f bugFix HEAD~2
+git branch -f main C6
+git checkout HEAD^
+....
+git reset HEAD~1
+git revert HEAD
+...
+git cherry-pick C2 C4
